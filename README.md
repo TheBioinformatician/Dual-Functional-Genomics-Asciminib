@@ -10,6 +10,6 @@ This repository contains the data analysis and visualization code for the public
 
 ## Overview
 
-The allosteric inhibitor asciminib is a novel therapy for chronic myelogenous leukemia (CML) that targets the myristoyl pocket of the BCR::ABL1 kinase. While highly effective, complex resistance mechanisms—particularly those outside the kinase domain or arising from epistasis—are emerging. 
+The allosteric inhibitor asciminib is a novel therapy for chronic myelogenous leukemia (CML) that targets the myristoyl pocket of the BCR::ABL1 kinase. While highly effective, complex resistance mechanisms can emerge.
 
 This repository provides the computational pipelines and visualization scripts used to analyze the functional genomics screens and validation assays presented in the study. The code processes high-throughput sequencing and flow cytometry data to define the complex genetic and biophysical landscape of asciminib resistance.
